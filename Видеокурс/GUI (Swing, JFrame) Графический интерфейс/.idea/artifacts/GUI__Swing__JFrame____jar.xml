@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GUI (Swing, JFrame) Графический интерфейс:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUI__Swing__JFrame____jar</output-path>
+    <root id="archive" name="GUI (Swing, JFrame) Графический интерфейс.jar">
+      <element id="module-output" name="GUI (Swing, JFrame) Графический интерфейс" />
+    </root>
+  </artifact>
+</component>
